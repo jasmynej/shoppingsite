@@ -1,0 +1,23 @@
+.shop {
+    color: white;
+    text-align: center;
+    float: left;
+    width: 720px;
+    height: 800px;
+    background-color: #e06377;
+}
+
+.cart {
+    text-align: center;
+    float: right;
+    width: 720px;
+    height: 800px;
+    background-color: #c83349;
+}
+
+.cart-items {
+    background-color: azure;
+    width: 50%;
+    float: center;
+    opacity: 0.6;
+}
